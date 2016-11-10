@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("First commit on master branch")
+        print("first commit to lees branch")
     }
 
     override func didReceiveMemoryWarning() {
